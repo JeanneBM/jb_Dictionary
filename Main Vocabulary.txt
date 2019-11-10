@@ -225,3 +225,215 @@ verification of requirements
     
 within
     w, wewnątrz
+    
+array
+    tablica
+    
+assembly language
+    język asemblera
+    
+basically supports only scalar operations
+    zasadniczo wykonuje tylko działania skalarne
+    
+Boolean expression
+    wyrażenie logiczne, wyrażenie Boole’owskie
+    
+call stack
+    stos wywołań
+    
+combination of symbols
+    kombinacja symboli
+    
+complex arithmetic
+    arytmetyka liczb zespolonych
+    
+computer science concepts
+    pojęcia z dziedziny informatyki
+    
+constant
+    stała
+    
+data structure
+    struktura danych
+    
+data type
+    typ danych
+    
+designed
+    to służący do; zaprojektowany tak, aby
+    
+direct memory addressing
+    bezpośrednie adresowanie pamięci
+    
+dominant implementation
+    dominująca implementacja
+    
+expression evaluation
+    obliczanie wartości wyrażeń
+    
+few, if any
+    niewiele, jeśli w ogóle
+    
+formal language
+    język formalny
+    
+framework
+    system szkieletowy, szkielet, framework
+    
+function
+    funkcja
+    
+garbage collection
+    usuwanie nieużywanych obiektów, sprzątanie śmieci
+    
+high-level language
+    język wysokiego poziomu
+    
+idea
+    pomysł, myśl
+    
+in its turn
+    z kolei
+inherently
+    naturalnie, z natury
+    
+internally
+    wewnętrznie
+    
+ISO Standard
+    standard ISO
+    
+level of abstraction
+    poziom abstrakcji
+    
+lock
+    blokada
+    
+loop
+    pętla
+    
+low-level language
+    język niskopoziomowy
+    
+machine code
+    kod maszynowy
+    
+machine language
+    język maszynowy
+    
+macro
+    makro
+    
+memory address
+    adres w pamięci
+    
+microcode
+    mikrokod
+    
+micro-operation
+    mikrooperacja
+    
+native opcode
+    macierzysty kod operacyjny
+    
+object
+    obiekt
+    
+one-to-one
+    jeden do jednego
+    
+parametrized recursive function
+    parametryzowana funkcja rekurencyjna
+    
+procedures
+    procedura
+    
+process
+    proces
+    
+processor
+    procesor
+    
+program efficiency
+    wydajność i efektywność programu
+    
+programming language
+    język programowania
+    
+rather than
+    raczej niż
+    
+reference implementation
+    implementacja wzorowa
+    
+reference
+    wzór
+    
+register
+    rejestr
+    
+representation
+    reprezentacja
+    
+runtime system
+    system wykonawczy
+    
+semantics
+    semantyka
+    
+slightly
+    nieznacznie, nieco
+    
+some decades ago
+    kilkadziesiąt lat temu
+    
+specification document
+    dokumentacja techniczna, specyfikacja
+    
+subroutine
+    podprocedura
+    
+syntax
+    składnia
+    
+the description of sth…
+    opis czegoś…
+    
+thread
+    wątek
+    
+to be regarded as…
+    być uważanym za…
+    
+to control the behavior of a machine
+    sterować działaniem komputera
+    
+to express algorithms
+    wyrażać algorytmy
+    
+to lack
+    nie mieć
+    
+to perform some tasks
+    wykonywać pewne zadania
+    
+to serve as
+    służyć jako
+    
+to support
+    obsługiwać
+    
+to translate directly into
+    przekładać bezpośrednio na
+    
+unlike
+    w odróżniu od
+    
+usability
+    użyteczność
+    
+variable
+    zmienna
+    
+while
+    podczas
