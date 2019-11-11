@@ -216,18 +216,25 @@ vary
     
 algebraic properties
     właściwości algebraiczne
+    
 and so on
     i tak dalej
+    
 associativity
     łączność
+    
 begin with…
     zaczynać od…
+    
 bold
     pogrubienie, pogrubiony
+    
 bracket
     nawias
+    
 by definition
     z definicji
+    
 canonical
     kanoniczny, podstawowy, zasadniczy
 cardinal number
