@@ -1,1 +1,33 @@
+SQL Structured Query Language
+
+DQL Data Query Language
+DML Data Manipulation Language
+DDL Data Definition Language
+DCL Data Control Language
+TCL Transaction Control Language
+
+query 
+  zapytanie
+  
+index
+  indeks
+ 
+foreign key
+  klucz obcy
+  
+primary key
+  klucz główny
+  
+constraint
+  ograniczenia
+  
+trigger
+  wyzwalacz
+    
+view
+  widok
+  
+SQL Injection
+  wstrzykiwanie SQL, jednen z podstawowych ataków na aplikacje używające baz danych
+  
 
