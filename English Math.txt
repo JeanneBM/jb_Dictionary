@@ -214,3 +214,546 @@ unknown
 vary
     różnić się, zmieniać się, wahać się
     
+algebraic properties
+    właściwości algebraiczne
+and so on
+    i tak dalej
+associativity
+    łączność
+begin with…
+    zaczynać od…
+bold
+    pogrubienie, pogrubiony
+bracket
+    nawias
+by definition
+    z definicji
+canonical
+    kanoniczny, podstawowy, zasadniczy
+cardinal number
+    liczebnik główny
+closure
+    domknięcie
+combinatorics
+    kombinatoryka
+commutativity
+    przemienność
+complex number
+    liczba zespolona
+corresponding to…
+    odpowiadający…
+countably infinite set
+    zbiór przeliczalny
+distribution
+    rozkład
+distributivity
+    rozdzielność
+divisibility
+    podzielność
+divisor
+    dzielnik
+embedded
+    zanurzony, wcielony
+extension
+    rozszerzenie
+
+for all
+    dla wszystkich
+identity element
+    element identycznościowy
+integer
+    liczba całkowita
+mathematician
+    matematyk
+natural number
+    liczba naturalna
+non-negative
+    nieujemny
+nonzero
+    niezerowy, różny od zera
+number set
+    zbiór liczbowy
+number theory
+    teoria liczb
+ordering
+    uporządkowanie, porządek
+ordinal number
+    liczebnik porządkowy
+positive
+    dodatni
+prime number
+    liczba pierwsza
+property
+    własność, właściwość
+rational number
+    liczba wymierna
+real number
+    liczba rzeczywista
+studied in…
+    badany w…, będący przedmiotem badań…
+such that
+    taki, że 
+There is no universal agreement about…
+    Nie ma powszechnej zgody co do…
+to count
+    liczyć
+whereas
+    podczas gdy
+whole number
+    liczba całkowita
+=	is equal to	a = b means a is equal to b
+≠	is not equal to	a ≠ b means a is not equal to b
+<	is less than	a < b means a is less than b
+>	is greater than	a > b means a is greater than b
+≤	is less than or equal to	a ≤ b means a is less than or equal to b
+≥	is greater than or equal to	a ≥ b means a is greater than or equal to b
+||	absolute value	|a| means the absolute value of a
+%	percent	10% means 10 percent
+a:b	ratio of a to b	a:b means the ratio of a to b
+1100	common fraction	a over b
+bn	exponentiation	bn means b to the power of n; b2 means b squared; b3 means b cubed
+	root	a means square root of a, b3 cube root of b, cn means nth root of c
++	addition	a + b means a plus b
+−	subtraction or negation	a − b means a minus b; −a means negative a
+×	multiplication	a × b means a times b or a multiplied by b
+÷	division	a ÷ b means a divided by b
+∈	an element of a set	a ∈ B means a is an element of the set B or a is an element of B
+∉	not an element of a set	a ∉ B means a is not an element of the set B or a is not an element of B
+{,}	the set of	{a,b,c} means the set consisting of a, b, and c
+
+along
+    wzdłuż, tu: na
+binary operation
+    działanie dwuargumentowe, operacja dwuargumentowa
+boldface
+    pismo pogrubione
+common fraction
+    ułamek zwykły
+consecutive
+    kolejny
+continuous
+    ciągły
+cube root
+    pierwiastek sześcienny, pierwiastek trzeciego stopnia
+cubed
+    do sześcianu, do potęgi trzeciej
+decimal
+    dziesiętny, liczba dziesiętna, ułamek dziesiętny
+denominator
+    mianownik
+Euler’s number
+    liczba Eulera
+exponentiation
+    potęgowanie
+fraction
+    ułamek
+fractional component
+    część ułamkowa
+infinite
+    nieskończony
+infinitely long
+    nieskończenie długi
+integer
+    całkowity, liczba całkowita
+irrational number
+    liczba niewymierna
+is equal to
+    jest równy
+is greater than
+    jest większy niż
+is greater than or equal to
+    jest większy lub równy
+is less than
+    jest mniejszy niż
+is less than or equal to
+    jest mniejszy lub równy
+is not equal to
+    nie jest równy
+negation
+    negacja
+negative
+    ujemny
+non-negative
+    nieujemny
+number line
+    oś liczbowa
+on the other hand…
+    natomiast, z drugiej strony…
+one tenth the size of…
+    jedna dziesiąta rozmiaru…
+
+percent
+    procent
+quantity
+    wielkość, ilość
+quotient
+    iloraz, stosunek, współczynnik
+rational number
+    liczba wymierna
+real line
+    oś liczb rzeczywistych
+real number
+    liczba rzeczywista
+repeating decimal
+    ułamek okresowy
+representation
+    reprezentacja
+root
+    pierwiastek
+sign
+    znak
+since
+    ponieważ, jako że
+square root of two
+    pierwiastek kwadratowy z dwóch
+squared
+    do kwadratu, do potęgi drugiej
+such as
+    taki, jak
+the absolute value (modulus) of…
+    wartość bezwzględna (moduł) z
+the golden ratio
+    złota proporcja
+thus
+    zatem, stąd, tak więc
+to be called…
+    być nazywanym
+to be denoted by…
+    być oznaczanym przez
+to be determined by…
+    być wyznaczanym przez, być określanym przez
+to be measured in units of…
+    być mierzonym w jednostkach…
+to be represented as…
+    być reprezentowanym jako
+to be thought of as…
+    być postrzeganym jako, być uznawanym za, być uważanym za
+to express
+    wyrażać
+to take a value
+    przyjmować wartość
+transcendental number
+    liczba przestępna
+unary operation
+    działanie jednoargumentowe, operacja jednoargumentowa
+value
+    wartość
+with regard to
+    w odniesieniu do, licząc się z
+without regard to
+    bez względu na
+    
+a method of representing numbers
+    sposób reprezentacji liczb
+angle
+    kąt
+at the most basic level
+    na podstawowym poziomie, na najniższym poziomie
+Babylonian numeral system
+    babiloński system liczbowy
+base
+    podstawa (systemu liczbowego)
+base-10
+    (system liczbowy o podstawie 10, dziesiętny system liczbowy)
+base-16
+    (system liczbowy o podstawie 16, szesnastkowy system liczbowy)
+base-2
+    (system liczbowy o podstawie 2, binarny system liczbowy)
+base-60
+    (system liczbowy o podstawie 60)
+base-8
+    (system liczbowy o podstawie 8, ósemkowy system liczbowy)
+binary
+    binarny, dwójkowy, dwuargumentowy
+binary number
+    liczba binarna
+computing
+    obliczanie, tu w znaczeniu: komputery
+deal with
+    pracować z
+decimal digit
+    cyfra dziesiętna
+decimal point
+    punkt dziesiętny (w programowaniu i anglosaskiej konwencji zapisu jest to kropka, ale w języku polskim stosuje się w tej roli przecinek)
+to distinguish sth from sth…
+    odróżniać coś od czegoś…
+followed by
+    po którym następuje…
+from 0 through 9
+    od 0 do 9
+hexadecimal
+    szesnastkowy
+    
+hexadecimal digit
+    cyfra szesnastkowa
+instead of
+    zamiast
+most commonly used
+    najczęściej używany
+octal
+    ósemkowy
+one and only one
+    jeden i tylko jeden, dokładnie jeden
+order of magnitude
+    rząd wielkości
+positional notation
+    notacja pozycyjna
+power of two
+    potęga dwójki
+radix podstawa
+    systemu liczbowego
+radix point
+    punkt dziesiętny
+Roman numerals
+    liczby rzymskie
+sequence of zeroes and ones
+    sekwencja zer i jedynek
+shorthand
+    skrót
+to extend sth
+    to include rozszerzyć coś o
+to convert
+    przekonwertować
+to hit a value
+    osiągnąć pewną wartość
+to jump straight to…
+    przejść prosto do…
+to relate to sth
+    odpowiadać czemuś
+unique
+    niepowtarzalny, jedyny
+with the use of
+    za pomocą, przy użyciu
+    
+2-dimensional
+    dwuwymiarowy
+90-degree angle
+    kąt 90 stopni
+at a given distance from
+    w określonej odległości od
+at least
+    przynajmniej
+boundary of the figure
+    granica figury
+bounded by
+    ograniczony przez
+circle
+    koło, okrąg
+congruent
+    przystający, kongruentny
+constant
+    stały
+convex
+    wypukły
+quadrilateral
+    czworobok, czterokąt
+curve
+    krzywa
+defined by a set of points
+    zdefiniowany przez zbiór punktów
+diamond
+    romb
+disk
+    dysk
+each
+    każdy
+each other
+    się, sobie wzajemnie
+ellipse
+    elipsa
+enlarge
+    powiększyć
+equilateral triangle
+    trójkąt równoboczny
+every
+    każdy
+figure
+    figura
+five-sided
+    pięcioboczny
+focal point
+    ognisko
+geometric object
+    obiekt geometryczny
+geometric shape
+    kształt geometryczny
+given
+    dany
+in everyday use
+    w powszechnym użyciu
+in strict technical usage
+    w użyciu/znaczeniu ściśle technicznym
+interchangeably
+    zamiennie
+interior
+    wnętrze, wewnętrzny
+internal angles
+    kąty wewnętrzne
+isosceles triangle
+    trójkąt równoramienny
+line
+    linia, prosta
+location
+    położenie
+    
+move
+    przenieść, przesunąć
+of equal length, of the same length
+    jednakowej długości
+of equal measure
+    jednakowej miary
+a pair of
+    para
+opposite sides
+    boki przeciwległe
+orientation
+    orientacja
+parallel sides
+    boki równoległe
+parallelogram
+    równoległobok
+pentagon
+    pięciokąt
+plane
+    płaszczyzna
+point
+    punkt
+polygon
+    wielokąt
+quadrilateral
+    czworobok, czworokąt
+radius
+    promień
+rectangle
+    prostakąt
+reflection
+    odbicie (jak w lustrze)
+regular
+    regularny, prawidłowy
+to remove
+    usunąć
+rhombus (pl. rhombi or rhombuses)
+    romb
+right angle
+    kąt prosty
+to rotate
+    obrócić
+to scale
+    skalować
+side
+    bok
+similar
+    podobny
+square
+    kwadrat
+surrounding
+    otaczający
+term
+    pojęcie
+the centre
+    środek
+the former and the latter
+    ten pierwszy i ten drugi
+the result of
+    wynik
+the same shape as
+    taki sam kształt, jak
+trapezoid
+    trapez
+triangle
+    trójkąt
+vertex (pl. vertices)
+    wierzchołek
+    
+( ) (bracket)
+    nawias
+[ ] (square bracket)
+    nawias kwadratowy
+a value given by
+    wartość wyznaczona przez
+above
+    powyżej
+abstract algebra
+    algebra abstrakcyjna
+arranged in rows and columns
+    ułożone w wiersze i kolumny
+array of numbers
+    tabela liczb, tablica liczb
+capital letter
+    wielka litera
+column
+    kolumna
+column matrix
+    macierz kolumnowa
+composition
+    kompozycja, złożenie
+compute by multiplying
+    obliczać przez pomnożenie
+computer graphics programming
+    programowanie grafiki komputerowej
+corresponding
+    odpowiadający, analogiczny
+dimension
+    wymiar
+dot product
+    iloczyn skalarny
+element
+    element
+enclose in
+    ująć w
+entry
+    pozycja, element
+expression
+    wyrażenie
+to identify
+    identyfikować
+if and only if
+    jeżeli i tylko, jeżeli (wyrażenie logiczne if and only if stanowi połączenie dwóch stwierdzeń za pomocą operatora logicznego i [koniunkcja]; całość oznacza prawdę wtedy, gdy oba zdania mają taką samą prawdziwą wartość — tak jak w bramce XNOR; dobrze ilustruje to przykład z trójkątem równoramiennym: A triangle is isosceles if and only if the triangle has two equal sides. Z tego zdania można wyciągnąć następujące wnioski: If a triangle is isosceles, then the triangle has two equal sides. oraz If a triangle has two equal sides, then the triangle is isosceles. W skrócie if and only if czasami zapisuje się w postaci iff i oznacza symbolem ⇔)
+
+if…then
+    jeśli…to (część zdania znajdująca się bezpośrednio za if nazywa się hipotezą, a część zdania znajdująca się za then to wniosek — jest to odpowiednik polskich zdań typu: „jeśli zostanie spełniony pewien warunek… to nastąpi taki a nie inny skutek”; symbolicznie if…then oznacza się symbolem logicznym ⇒)
+linear transformation
+    przekształcenie liniowe
+matrix (pl. matrices)
+    macierz
+matrix product
+    iloczyn macierzy
+meaning that
+    co oznacza, że
+one such way is to…
+    jednym ze sposobów jest…
+rotation matrix
+    macierz obrotu
+rotation vector
+    wektor obrotu
+row matrix
+    macierz wierszowa
+row
+    wiersz
+scalar
+    skalar
+shown below
+    pokazany poniżej
+solution of systems of linear equations
+    rozwiązywanie układów równań liniowych
+square matrix
+    macierz kwadratowa
+the order of a matrix (matrix order)
+    stopień macierzy
+the same number of rows as columns
+    taka sama liczba wierszy, co kolumn
+three-dimensional space
+    przestrzeń trójwymiarowa
+to be treated in certain prescribed ways
+    być traktowanym w pewien z góry określony sposób
+to calculate entrywise
+    obliczać wg elementów
+to indicate
+    wskazywać
+to look for sth
+    szukać czegoś
+transformation matrix
+    macierz przekształcenia
+underlined
+    podkreślony
+    
