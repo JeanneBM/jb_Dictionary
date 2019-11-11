@@ -1,1 +1,216 @@
+abstraction
+    abstrakcja
+    
+according to
+    zgodnie z
+    
+addend
+    składnik sumy
+    
+addition
+    dodawanie
+    
+algebra
+    algebra
+    
+amount
+    wielkość
+    
+Arabic numerals
+    cyfry arabskie
+    
+are collectively referred to as…
+    są zbiorczo nazywane…
+    
+associative
+    łączny
+    
+branch of mathematics
+    gałąź matematyki
+    
+branch
+    gałąź, dziedzina
+    
+commutative
+    przemienny
+    
+denominator
+    mianownik ułamka
+    
+denoted by sth
+    oznaczany czymś
+    
+difference
+    różnica
+    
+digit
+    cyfra
+    
+dividend
+    dzielna
+    
+division
+    dzielenie
+    
+divisor
+    dzielnik
+    
+exponentiation
+    potęgowanie
+    
+expression
+    wyrażenie
+    
+factor
+    czynnik
+    
+fraction
+    ułamek
+    
+frequently
+    często
+    
+inverse operation
+    działanie odwrotne (np. dodawanie i odejmowanie to działania odwrotne)
+    
+is known as…
+    nazywa się…
+    
+is referred to as…
+    nazywa się, jest zwany…
+    
+logarithmic function
+    funkcja logarytmiczna
+    
+minuend
+    odjemna
+    
+minus
+    minus
+    
+multiplicand
+    mnożna
+    
+multiplication
+    mnożenie
+    
+negative number
+    liczba ujemna
+    
+noncommutative
+    nieprzemienny
+    
+numeral system
+    system liczbowy
 
+numerator
+    licznik ułamka
+    
+operation
+    działanie, operacja
+    
+order of operations
+    kolejność wykonywania działań
+    
+order
+    kolejność, porządek
+    
+percentage
+    procent
+    
+plus
+    plus
+    
+point
+    kropka
+    
+product
+    iloczyn
+    
+property
+    właściwość, własność, cecha
+    
+quotient
+    iloraz
+    
+root
+    pierwiastek
+    
+set
+    zbiór
+    
+sign
+    znak
+    
+signified by sth
+    oznaczany czymś
+    
+square root
+    pierwiastek kwadratowy
+    
+subtraction
+    odejmowanie
+    
+subtrahend
+    odjemnik
+    
+sum
+    suma
+    
+summand
+    składnik sumy
+    
+term
+    składnik
+    
+the most common
+    najczęściej spotykany, najpowszechniej występujący
+    
+the same as
+    taki sam, jak
+    
+to add
+    dodawać
+    
+to consist of sth
+    zawierać coś, obejmować coś
+    
+to denote
+    oznaczać
+    
+to differ from sth
+    różnić się od czegoś
+    
+to discover a value
+    znaleźć wartość
+    
+to include
+    zawierać, obejmować
+    
+to matter
+    znaczyć, mieć znaczenie
+    
+to perform
+    wykonywać
+    
+to signify
+    oznaczać
+    
+to stand for sth
+    reprezentować coś
+    
+to subtract
+    odejmować
+    
+to take on a value
+    przyjmować wartość
+    
+undefined
+    niezdefiniowany
+    
+unknown
+    niewiadoma
+    
+vary
+    różnić się, zmieniać się, wahać się
+    
