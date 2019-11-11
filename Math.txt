@@ -237,77 +237,112 @@ by definition
     
 canonical
     kanoniczny, podstawowy, zasadniczy
+    
 cardinal number
     liczebnik główny
+    
 closure
     domknięcie
+    
 combinatorics
     kombinatoryka
+    
 commutativity
     przemienność
+    
 complex number
     liczba zespolona
+    
 corresponding to…
     odpowiadający…
+    
 countably infinite set
     zbiór przeliczalny
+    
 distribution
     rozkład
+    
 distributivity
     rozdzielność
+    
 divisibility
     podzielność
+    
 divisor
     dzielnik
+    
 embedded
     zanurzony, wcielony
+    
 extension
     rozszerzenie
 
 for all
     dla wszystkich
+    
 identity element
     element identycznościowy
+    
 integer
     liczba całkowita
+    
 mathematician
     matematyk
+    
 natural number
     liczba naturalna
+    
 non-negative
     nieujemny
+    
 nonzero
     niezerowy, różny od zera
+    
 number set
     zbiór liczbowy
+    
 number theory
     teoria liczb
+    
 ordering
     uporządkowanie, porządek
+    
 ordinal number
     liczebnik porządkowy
+    
 positive
     dodatni
+    
 prime number
     liczba pierwsza
+    
 property
     własność, właściwość
+    
 rational number
     liczba wymierna
+    
 real number
     liczba rzeczywista
+    
 studied in…
     badany w…, będący przedmiotem badań…
+    
 such that
     taki, że 
+    
 There is no universal agreement about…
     Nie ma powszechnej zgody co do…
+    
 to count
     liczyć
+    
 whereas
     podczas gdy
+    
 whole number
     liczba całkowita
+    
 =	is equal to	a = b means a is equal to b
 ≠	is not equal to	a ≠ b means a is not equal to b
 <	is less than	a < b means a is less than b
@@ -330,12 +365,16 @@ bn	exponentiation	bn means b to the power of n; b2 means b squared; b3 means b c
 
 along
     wzdłuż, tu: na
+    
 binary operation
     działanie dwuargumentowe, operacja dwuargumentowa
+    
 boldface
     pismo pogrubione
+    
 common fraction
     ułamek zwykły
+    
 consecutive
     kolejny
 continuous
