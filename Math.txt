@@ -377,91 +377,133 @@ common fraction
     
 consecutive
     kolejny
+    
 continuous
     ciągły
+    
 cube root
     pierwiastek sześcienny, pierwiastek trzeciego stopnia
+    
 cubed
     do sześcianu, do potęgi trzeciej
+    
 decimal
     dziesiętny, liczba dziesiętna, ułamek dziesiętny
+    
 denominator
     mianownik
+    
 Euler’s number
     liczba Eulera
+    
 exponentiation
     potęgowanie
+    
 fraction
     ułamek
+    
 fractional component
     część ułamkowa
+    
 infinite
     nieskończony
+    
 infinitely long
     nieskończenie długi
+    
 integer
     całkowity, liczba całkowita
+    
 irrational number
     liczba niewymierna
+    
 is equal to
     jest równy
+    
 is greater than
     jest większy niż
+    
 is greater than or equal to
     jest większy lub równy
+    
 is less than
     jest mniejszy niż
+    
 is less than or equal to
     jest mniejszy lub równy
+    
 is not equal to
     nie jest równy
+    
 negation
     negacja
+    
 negative
     ujemny
+    
 non-negative
     nieujemny
+    
 number line
     oś liczbowa
+    
 on the other hand…
     natomiast, z drugiej strony…
+    
 one tenth the size of…
     jedna dziesiąta rozmiaru…
 
 percent
     procent
+    
 quantity
     wielkość, ilość
+    
 quotient
     iloraz, stosunek, współczynnik
+    
 rational number
     liczba wymierna
+    
 real line
     oś liczb rzeczywistych
+    
 real number
     liczba rzeczywista
+    
 repeating decimal
     ułamek okresowy
+    
 representation
     reprezentacja
+    
 root
     pierwiastek
+    
 sign
     znak
+    
 since
     ponieważ, jako że
+    
 square root of two
     pierwiastek kwadratowy z dwóch
+    
 squared
     do kwadratu, do potęgi drugiej
+    
 such as
     taki, jak
+    
 the absolute value (modulus) of…
     wartość bezwzględna (moduł) z
+    
 the golden ratio
     złota proporcja
+    
 thus
     zatem, stąd, tak więc
+    
 to be called…
     być nazywanym
 to be denoted by…
