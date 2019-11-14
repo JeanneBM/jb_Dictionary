@@ -626,28 +626,40 @@ positional notation
 
 power of two
     potęga dwójki
+
 radix podstawa
     systemu liczbowego
+
 radix point
     punkt dziesiętny
+
 Roman numerals
     liczby rzymskie
+
 sequence of zeroes and ones
     sekwencja zer i jedynek
+
 shorthand
     skrót
+
 to extend sth
     to include rozszerzyć coś o
+
 to convert
     przekonwertować
+
 to hit a value
     osiągnąć pewną wartość
+
 to jump straight to…
     przejść prosto do…
+
 to relate to sth
     odpowiadać czemuś
+
 unique
     niepowtarzalny, jedyny
+
 with the use of
     za pomocą, przy użyciu
     
