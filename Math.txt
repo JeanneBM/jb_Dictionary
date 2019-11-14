@@ -665,34 +665,49 @@ with the use of
     
 2-dimensional
     dwuwymiarowy
+
 90-degree angle
     kąt 90 stopni
+
 at a given distance from
     w określonej odległości od
+
 at least
     przynajmniej
+
 boundary of the figure
     granica figury
+
 bounded by
     ograniczony przez
+
 circle
     koło, okrąg
+
 congruent
     przystający, kongruentny
+
 constant
     stały
+
 convex
     wypukły
+
 quadrilateral
     czworobok, czterokąt
+
 curve
     krzywa
+
 defined by a set of points
     zdefiniowany przez zbiór punktów
+
 diamond
     romb
+
 disk
     dysk
+
 each
     każdy
 each other
