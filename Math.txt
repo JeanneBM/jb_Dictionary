@@ -506,86 +506,124 @@ thus
     
 to be called…
     być nazywanym
+    
 to be denoted by…
     być oznaczanym przez
+    
 to be determined by…
     być wyznaczanym przez, być określanym przez
+    
 to be measured in units of…
     być mierzonym w jednostkach…
+    
 to be represented as…
     być reprezentowanym jako
+    
 to be thought of as…
     być postrzeganym jako, być uznawanym za, być uważanym za
+    
 to express
     wyrażać
+    
 to take a value
     przyjmować wartość
+    
 transcendental number
     liczba przestępna
+    
 unary operation
     działanie jednoargumentowe, operacja jednoargumentowa
+    
 value
     wartość
+    
 with regard to
     w odniesieniu do, licząc się z
+    
 without regard to
     bez względu na
     
 a method of representing numbers
     sposób reprezentacji liczb
+    
 angle
     kąt
+    
 at the most basic level
     na podstawowym poziomie, na najniższym poziomie
+
 Babylonian numeral system
     babiloński system liczbowy
+
 base
     podstawa (systemu liczbowego)
+
 base-10
     (system liczbowy o podstawie 10, dziesiętny system liczbowy)
+
 base-16
     (system liczbowy o podstawie 16, szesnastkowy system liczbowy)
+
 base-2
     (system liczbowy o podstawie 2, binarny system liczbowy)
+
 base-60
     (system liczbowy o podstawie 60)
+
 base-8
     (system liczbowy o podstawie 8, ósemkowy system liczbowy)
+
 binary
     binarny, dwójkowy, dwuargumentowy
+
 binary number
     liczba binarna
+
 computing
     obliczanie, tu w znaczeniu: komputery
+
 deal with
     pracować z
+
 decimal digit
     cyfra dziesiętna
+
 decimal point
     punkt dziesiętny (w programowaniu i anglosaskiej konwencji zapisu jest to kropka, ale w języku polskim stosuje się w tej roli przecinek)
+
 to distinguish sth from sth…
     odróżniać coś od czegoś…
+
 followed by
     po którym następuje…
+
 from 0 through 9
     od 0 do 9
+
 hexadecimal
     szesnastkowy
-    
+
 hexadecimal digit
     cyfra szesnastkowa
+
 instead of
     zamiast
+
 most commonly used
     najczęściej używany
+
 octal
     ósemkowy
+
 one and only one
     jeden i tylko jeden, dokładnie jeden
+
 order of magnitude
     rząd wielkości
+
 positional notation
     notacja pozycyjna
+
 power of two
     potęga dwójki
 radix podstawa
