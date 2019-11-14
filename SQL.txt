@@ -28,6 +28,6 @@ view
   widok
   
 SQL Injection
-  wstrzykiwanie SQL, jednen z podstawowych ataków na aplikacje używające baz danych
+  wstrzykiwanie SQL, jednen z podstawowych ataków na aplikacje używające bazy danych - kasowanie danych
   
 
