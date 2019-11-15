@@ -920,16 +920,26 @@ dot product
 
 element
     element
+
 enclose in
     ująć w
+
 entry
     pozycja, element
+
 expression
     wyrażenie
+
 to identify
     identyfikować
+
 if and only if
-    jeżeli i tylko, jeżeli (wyrażenie logiczne if and only if stanowi połączenie dwóch stwierdzeń za pomocą operatora logicznego i [koniunkcja]; całość oznacza prawdę wtedy, gdy oba zdania mają taką samą prawdziwą wartość — tak jak w bramce XNOR; dobrze ilustruje to przykład z trójkątem równoramiennym: A triangle is isosceles if and only if the triangle has two equal sides. Z tego zdania można wyciągnąć następujące wnioski: If a triangle is isosceles, then the triangle has two equal sides. oraz If a triangle has two equal sides, then the triangle is isosceles. W skrócie if and only if czasami zapisuje się w postaci iff i oznacza symbolem ⇔)
+    jeżeli i tylko, jeżeli (wyrażenie logiczne if and only if stanowi połączenie dwóch stwierdzeń za pomocą operatora logicznego i 
+    [koniunkcja]; całość oznacza prawdę wtedy, gdy oba zdania mają taką samą prawdziwą wartość — tak jak w bramce XNOR; dobrze 
+    ilustruje to przykład z trójkątem równoramiennym: A triangle is isosceles if and only if the triangle has two equal sides. Z tego 
+    zdania można wyciągnąć następujące wnioski: If a triangle is isosceles, then the triangle has two equal sides. oraz If a triangle 
+    has two equal sides, then the triangle is isosceles. W skrócie if and only if czasami zapisuje się w postaci iff i oznacza 
+    symbolem ⇔)
 
 if…then
     jeśli…to (część zdania znajdująca się bezpośrednio za if nazywa się hipotezą, a część zdania znajdująca się za then to wniosek — jest to odpowiednik polskich zdań typu: „jeśli zostanie spełniony pewien warunek… to nastąpi taki a nie inny skutek”; symbolicznie if…then oznacza się symbolem logicznym ⇒)
