@@ -872,36 +872,52 @@ vertex (pl. vertices)
     
 ( ) (bracket)
     nawias
+
 [ ] (square bracket)
     nawias kwadratowy
+
 a value given by
     wartość wyznaczona przez
+
 above
     powyżej
+
 abstract algebra
     algebra abstrakcyjna
+
 arranged in rows and columns
     ułożone w wiersze i kolumny
+
 array of numbers
     tabela liczb, tablica liczb
+
 capital letter
     wielka litera
+
 column
     kolumna
+
 column matrix
     macierz kolumnowa
+
 composition
     kompozycja, złożenie
+
 compute by multiplying
     obliczać przez pomnożenie
+
 computer graphics programming
     programowanie grafiki komputerowej
+
 corresponding
     odpowiadający, analogiczny
+
 dimension
     wymiar
+
 dot product
     iloczyn skalarny
+
 element
     element
 enclose in
