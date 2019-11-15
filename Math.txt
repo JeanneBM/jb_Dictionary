@@ -710,111 +710,163 @@ disk
 
 each
     każdy
+
 each other
     się, sobie wzajemnie
+
 ellipse
     elipsa
+
 enlarge
     powiększyć
+
 equilateral triangle
     trójkąt równoboczny
+
 every
     każdy
+
 figure
     figura
+
 five-sided
     pięcioboczny
+
 focal point
     ognisko
+
 geometric object
     obiekt geometryczny
+
 geometric shape
     kształt geometryczny
+
 given
     dany
+
 in everyday use
     w powszechnym użyciu
+
 in strict technical usage
     w użyciu/znaczeniu ściśle technicznym
+
 interchangeably
     zamiennie
+
 interior
     wnętrze, wewnętrzny
+
 internal angles
     kąty wewnętrzne
+
 isosceles triangle
     trójkąt równoramienny
+
 line
     linia, prosta
+
 location
     położenie
     
 move
     przenieść, przesunąć
+
 of equal length, of the same length
     jednakowej długości
+
 of equal measure
     jednakowej miary
+
 a pair of
     para
+
 opposite sides
     boki przeciwległe
+
 orientation
     orientacja
+
 parallel sides
     boki równoległe
+
 parallelogram
     równoległobok
+
 pentagon
     pięciokąt
+
 plane
     płaszczyzna
+
 point
     punkt
+
 polygon
     wielokąt
+
 quadrilateral
     czworobok, czworokąt
+
 radius
     promień
+
 rectangle
     prostakąt
+
 reflection
     odbicie (jak w lustrze)
+
 regular
     regularny, prawidłowy
+
 to remove
     usunąć
+
 rhombus (pl. rhombi or rhombuses)
     romb
+
 right angle
     kąt prosty
+
 to rotate
     obrócić
+
 to scale
     skalować
+
 side
     bok
+
 similar
     podobny
+
 square
     kwadrat
+
 surrounding
     otaczający
+
 term
     pojęcie
+
 the centre
     środek
+
 the former and the latter
     ten pierwszy i ten drugi
+
 the result of
     wynik
+
 the same shape as
     taki sam kształt, jak
+
 trapezoid
     trapez
+
 triangle
     trójkąt
+
 vertex (pl. vertices)
     wierzchołek
     
