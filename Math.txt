@@ -943,48 +943,70 @@ if and only if
 
 if…then
     jeśli…to (część zdania znajdująca się bezpośrednio za if nazywa się hipotezą, a część zdania znajdująca się za then to wniosek — jest to odpowiednik polskich zdań typu: „jeśli zostanie spełniony pewien warunek… to nastąpi taki a nie inny skutek”; symbolicznie if…then oznacza się symbolem logicznym ⇒)
+    
 linear transformation
     przekształcenie liniowe
+    
 matrix (pl. matrices)
     macierz
+    
 matrix product
     iloczyn macierzy
+    
 meaning that
     co oznacza, że
+
 one such way is to…
     jednym ze sposobów jest…
+
 rotation matrix
     macierz obrotu
+
 rotation vector
     wektor obrotu
+
 row matrix
     macierz wierszowa
+
 row
     wiersz
+
 scalar
     skalar
+
 shown below
     pokazany poniżej
+
 solution of systems of linear equations
     rozwiązywanie układów równań liniowych
+
 square matrix
     macierz kwadratowa
+
 the order of a matrix (matrix order)
     stopień macierzy
+
 the same number of rows as columns
     taka sama liczba wierszy, co kolumn
+
 three-dimensional space
     przestrzeń trójwymiarowa
+
 to be treated in certain prescribed ways
     być traktowanym w pewien z góry określony sposób
+
 to calculate entrywise
     obliczać wg elementów
+
 to indicate
     wskazywać
+
 to look for sth
     szukać czegoś
+
 transformation matrix
     macierz przekształcenia
+
 underlined
     podkreślony
     
