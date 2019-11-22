@@ -1,0 +1,150 @@
+
+
+API 
+
+— ang. application programming interface — jest to sposób, w jaki możemy skorzystać z danej biblioteki, frameworka lub systemu zewnętrznego. 
+ API to w uproszczeniu zbiór publicznych interfejsów, które możemy wykorzystać realizując naszą aplikację
+
+aplikacja webowa 
+
+— aplikacja (lub zbiór aplikacji), których można używać za pomocą przeglądarki internetowej 
+— oznacza to, że jest ona zainstalowana na serwerze i dostępna pod adresem URL. W przypadku aplikacji webowych napisanych w języku Java, 
+są one uruchamiane w serwerze aplikacji
+
+artefakt 
+
+— o artefaktach mówimy głównie w kontekście mavena, ale możemy też używać tego określenia poza tym środowiskiem. 
+Artefakt to paczka (najczęściej archiwum zip z rozszerzeniem jar albo war) która zawiera gotowy komponent (np. moduł naszej aplikacji, 
+bibliotekę zewnętrzną, wydzieloną część aplikacji itp)
+
+biblioteka (zależność, dependency) 
+
+— jest to jakiś moduł dostarczany przez kogoś innego (lub np. będący inną częścią tego samego projektu) z którego korzystamy. 
+W przypadku projektu, który piszemy w ramach kursu, biblioteką (zależnością) jest np. Spring Framework
+
+budowanie 
+
+— budowanie to proces, który obejmuje m.in. kompilacje 
+— ogólnie rzecz ujmując budowanie to proces przekształcania wszystkich kodów źródłowych i innych plików w projekcie (module) w artefakt — 
+postać gotową do użycia w innym projekcie/module (lub w serwerze aplikacji)
+
+bug 
+
+— błąd, który powoduje nieprawidłowe działanie aplikacji (np. pewne dane się nie zapisują albo obliczane są z błędem). 
+Bugi najczęściej zgłaszane są przez użytkowników lub testerów w postaci ticketów lub sami programiści je znajdują
+
+CI (continuous integration) 
+
+— ciągła integracja to pojęcie nie tyle związane z samym programowaniem co z projektem informatycznym ogólnie. 
+Ciągła integracja polega na tym, że za każdym razem gdy ktoś z programistów umieści na repozytorium zmiany w kodzie, cały projekt 
+jest ponownie budowany i w przypadku pojawienia się błędów wysyłana jest stosowna informacja mailem. 
+W tym sensie jest narzędziem do kontroli jakości. Poza tym może dodatkowo realizować inne funkcje, np. po zbudowaniu projektu po zmianie 
+umieścić jego najnowszą wersję na serwerze (stąd nazwa — ciągła integracja)
+
+deployment 
+
+— potocznie używa się także sformułowania ‘wrzucać na serwer’. Deployment to nic innego jak uruchomienie artefaktu (zbudowanego projektu) 
+na serwerze aplikacji (czyli uruchomienie np. aplikacji webowej tak, żeby była dostępna pod określonym URLem)
+
+development 
+
+— potocznie utożsamia się z programowaniem. ale formalnie development odnosi się do wszystkich czynności związanych z realizacją projektu 
+od początku do końca (projektowanie, programowanie, testowanie, wdrażanie)
+
+DI (dependency injection) 
+
+— inaczej wstrzykiwanie zależności, czyli zamiast samodzielnie zajmować się inicjowaniem komponentów, obiektów i innych które potrzebujemy, 
+robi to za nas kontener IoC, a następnie ustawia odpowiednie pola w naszej klasie (stąd nazwa wstrzykiwanie). 
+Przykładem jest adnotacja @Autowired, o której możesz poczytać w lekcji #09
+
+framework 
+
+— biblioteka, która dostarcza duży zbiór funkcjonalności i na której opieramy swoją aplikację. Różnica pomiędzy frameworkiem a biblioteką 
+jest taka, że biblioteka najczęściej dostarcza funkcjonalności, które można podmienić przy stosunkowo małej ilości zmian w samym kodzie 
+czy plikach konfiguracji (np. jeśli nasz projekt używa JPA to możemy użyć biblioteki Hibernate, ale możemy też innej), 
+framework z kolei narzuca pewien styl lub konwencję a jego podmiana w projekcie wiąże się z dużym nakładem pracy (np. Spring jest frameworkiem,
+aplikacje webowe z jego użyciem piszę się w pewien unikalny sposób, który nie jest obsługiwany przez inne frameworki)
+
+integracja 
+
+— łączenie wielu elementów; ma ono miejsce w większych projektach, które składają się z wielu modułów lub korzystają z zewnętrznych systemów. 
+Integracja to upewnienie się, że oba te komponenty działają wspólnie tak jak zakładano oraz tego, że nie ma problemów np. z komunikacją 
+pomiędzy nimi
+
+Jenkins (alt. Hudson) 
+
+— jeden z najpopularniejszych systemów CI. Ma dwie nazwy, ponieważ projekt podzielił się na dwa rozwijane równolegle przez politykę 
+firmy Oracle (zainteresowanych odsyłam do np. wikipedii). Jenkins jest obecnie szybciej rozwijany i częściej używany.
+
+kompilacja 
+
+— zamiana kodu źródłowego na taki, który da się uruchamiać (np. w ramach JVM lub bezpośrednio na komputerze)
+
+komponent 
+
+— logiczna część całej aplikacji/systemu. Komponent może się ograniczać do klasy, zbioru klas lub nawet kilku modułów czy systemów, 
+wszystko zależy od tego co chcemy pokazać (np. opisując systemy informatyczne banku, komponentem może być system do obsługi kart. 
+Z kolei omawiając zabezpieczenia banku komponentami mogą być system wykrywania podejrzanych transakcji oraz system odrzucania transakcji 
+wykonanych zablokowanymi kartami — oba wcześniej były objęte komponentem obsługi kart)
+
+kontener 
+
+— w zależności od kontekstu może mieć różne znaczenie. Ogólnie rzecz biorąc kontener to jakaś funkcjonalność ‘zapewniona’, 
+tzn. dostarczona do naszej aplikacji z której możemy korzystać. Możemy wyszczególnić kilka kontenerów:
+
+    * kontener servletów 
+    — jest to środowisko, w którym możemy uruchamiać Servlety (np. każdy serwer aplikacji nim jest lub posiada go jako komponent), 
+      czyli obsługuje zapytania HTTP i zamienia je na obiekty, które następnie przekazuje do konkretnych Servletów
+      
+    * konener IoC — biblioteka lub framework, która zapewnia funkcjonalność IoC (np. DI) — przykładem takiego frameworku jest Spring, 
+      który uruchamia własny kontener IoC, w którym z kolei uruchamia beany
+
+maven 
+
+— to narzędzie do zarządzania zależnościami w projekcie. Znacząco upraszcza konfiguracje projektu (np. samodzielnie pobiera potrzebne 
+zależności z internetu, zarządza tym, jak projekt jest budowany itp), centralna konfiguracja projektu znajduje się w pliku pom.xml
+
+repozytorium (scm, svn, git) 
+
+— (ang. source code management) jest to centralne miejsce, w którym przechowywany jest kod projektu. Repozytorium przechowuje też wszystkie 
+zmiany, dzięki czemu można podejrzeć kto zmienił co i kiedy (przechowuje więc historię). Dodatkowo przechowuje także tzw. rewizje — 
+czyli w pewnym sensie ‘wersję’ kodu — dzięki czemu nie nadpiszemy (przypadkowo) czyichś zmian w kodzie
+
+serwer aplikacji 
+
+— środowisko, w którym uruchamiamy aplikacje webowe, które dostarcza m.in. kontener servletów oraz inne funkcje. Przykładami serwerów aplikacji
+są np. JBoss AS czy Tomcat
+
+servlet 
+
+— podstawowy obiekt w specyfikacji Java EE, servlet odpowiada na zapytania HTTP wysłane pod wskazany adres 
+(lub wzór adresu — tzw. servlet-mapping)
+
+ticket (issue) 
+
+— zgłoszenie zarejestrowane w systemie (issue tracker), najczęściej jest to problem do rozwiązania (bug) lub zadanie do wykonania. 
+Ticket powinien zawierać opis tego, co powinniśmy zrobić, osobę odpowiedzialną oraz inne informacje użyteczne przy pracy
+
+ui 
+
+— user interface, czyli to co widzi użytkownik. W przypadku aplikacji webowych jest to wygenerowana strona HTML, ogólnie część ‘graficzna’ 
+naszej aplikacji
+
+ux 
+
+— user experience, jest to ściśle powiązane z UI, ale różnicą jest że na UX wpływa także sama funkcjonalność — np. czy użytkownik nie musi 
+wykonać za dużo operacji żeby osiągnąć założony cel, czy aplikacja jest intuicyjna i prosta w użyciu, czy zawiera pomoc kontekstową itp
+
+unit testy (testy jednostkowe) 
+
+— są to automatyczne testy pisane przez samych programistów, które sprawdzają bardzo wąski wycinek systemu. Testy te są tworzone najczęściej 
+w momencie pisania kodu określonej funkcjonalności (od razu tworzymy wtedy unit testy które tą funkcjonalność weryfikują). 
+Są one uruchamiane najczęściej w momencie budowania a ich celem jest weryfikacja, czy wprowadzone zmiany nie zepsuły niczego, 
+co działało wcześniej w systemie
+
+wdrażanie 
+
+— o wdrażaniu mówimy najczęściej w przypadku gotowych aplikacji sprzedawanych wielu klientom. W takiej sytuacji oprogramowanie to jest 
+instalowane u klienta, czasami także kopiuje się dane z istniejących systemów. Pod pojęciem ‘wdrażanie’ czasami zawiera się także szkolenie 
+użytkowników w zakresie używania oprogramowania oraz dostosowanie procedur firmowych do jego używania
+
