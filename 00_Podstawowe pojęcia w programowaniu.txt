@@ -1,5 +1,3 @@
-
-
 API 
 
 — ang. application programming interface — jest to sposób, w jaki możemy skorzystać z danej biblioteki, frameworka lub systemu zewnętrznego. 
